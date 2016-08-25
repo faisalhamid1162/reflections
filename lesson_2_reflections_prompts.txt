@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Git is used to start keeping track of the files in there.  This tells git that this folder (including all files and subfolders) are part of a project/repository that require version control to be implemented.
