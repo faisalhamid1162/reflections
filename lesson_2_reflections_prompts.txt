@@ -1,2 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-	Git is used to start keeping track of the files in there.  This tells git that this folder (including all files and subfolders) are part of a project/repository that require version control to be implemented.
+
+	Git is used to start keeping track of the files in there.  This tells git that this folder (including all files and subfolders) are part of a project/repository that require version control to be implemented
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Allows an intermediate space to organize the commits before actually making a commit.  Helps define what each commit should look like without creating useless checkpoints via pointless commits.
+
